@@ -1,0 +1,4 @@
+name: NoCreeperGrief
+main: ninjananas.mc.NoCreeperGrief.Plugin
+version: 1.0
+api-version: 1.18
